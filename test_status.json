@@ -1,0 +1,29 @@
+{
+  "Test Case Run Status": [
+    {
+      "Script Name": "A2DP/SRC/AS/BV-01-I",
+      "Status": "False",
+      "Time": "09/14/2020 19:16:24"
+    },
+    {
+      "Script Name": "A2DP/SNK/CC/BV-08-I",
+      "Status": "Pass",
+      "Time": "09/14/2020 20:00:20"
+    },
+    {
+      "Script Name": "HFP/HF/CIT/BV-01-I",
+      "Status": "Pass",
+      "Time": "09/15/2020 08:02:46"
+    },
+    {
+      "Script Name": "HFP/HF/ATA/BV-01-I",
+      "Status": "Pass",
+      "Time": "09/15/2020 08:02:36"
+    },
+    {
+      "Script Name": "DID/SR/SDI/BV-02-I",
+      "Status": "Pass",
+      "Time": "09/14/2020 19:44:46"
+    }
+  ]
+}
